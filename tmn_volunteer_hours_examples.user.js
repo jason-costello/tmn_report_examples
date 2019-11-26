@@ -1,13 +1,14 @@
 // ==UserScript==
-// @namespace https://openuserjs.org/users/jasoncostello/
-// @name TMNRptExamples
-// @description this script adds examples for each logging category on the submit report page
+// @name          My Script
+// @namespace     https://www.example.com/gmscripts
+// @description   Scripting is fun
 // @updateURL https://openuserjs.org/meta/jasoncostello/
 // @version 1.0.0
 // @include https://tpwd.samaritan.com/recruiter/index.php
 // @match https://tpwd.samaritan.com/recruiter/index.php
 // @updateURL https://openuserjs.org/meta/jasoncostello/TMNRptExamples
-//==/UserScript==
+// ==/UserScript==
+
 
 // ==OpenUserJS==
 // @author jasoncostello
