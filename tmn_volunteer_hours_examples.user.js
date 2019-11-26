@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name          My Script
 // @namespace     https://www.example.com/gmscripts
-// @description   Scripting is fun
+// @description   Adds descriptions to the report submission page to help select appropriate code
 // @updateURL https://openuserjs.org/meta/jasoncostello/
-// @version 1.0.1
+// @version 1.0.3
 // @license         MIT
 // @include https://tpwd.samaritan.com/recruiter/index.php
 // @match https://tpwd.samaritan.com/recruiter/index.php
