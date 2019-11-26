@@ -3,7 +3,8 @@
 // @namespace     https://www.example.com/gmscripts
 // @description   Scripting is fun
 // @updateURL https://openuserjs.org/meta/jasoncostello/
-// @version 1.0.0
+// @version 1.0.1
+// @license         MIT
 // @include https://tpwd.samaritan.com/recruiter/index.php
 // @match https://tpwd.samaritan.com/recruiter/index.php
 // @updateURL https://openuserjs.org/meta/jasoncostello/TMNRptExamples
